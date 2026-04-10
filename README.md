@@ -8,7 +8,7 @@ The Human Resource Dashboard is an interactive Tableau project designed to provi
 The project focuses on three core business areas:
 
 ### 1. Workforce Overview
-Provides a snapshot of organizational HR performance, including:
+Provides a snapshot of organizational performance, including:
 - Total hired, active, and terminated employees
 - Year-wise hiring and attrition trends
 - Department and job title distribution
