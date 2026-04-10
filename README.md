@@ -2,13 +2,34 @@
 Human Resource Dashboard built in Tableau showcasing workforce analytics, attrition trends, employee demographics, department distribution, and HR KPI insights through interactive visualizations.
 
 ## Project Overview
-This Human Resource Dashboard provides insights into workforce metrics including:
-- Employee count
-- Attrition analysis
-- Department-wise distribution
-- Gender diversity
-- Hiring trends
-- Performance indicators
+1. Overview :
+Provides a snapshot of workforce metrics.
+- Total hired employees
+- Active employees
+- Terminated employees
+- Hiring and termination trends over years
+- Department-wise employee distribution
+- Job title breakdown
+- HQ vs Branch comparison
+- Geographic distribution by city and state
+
+2. Demographics:
+Analyzes workforce composition.
+- Gender ratio
+- Age group distribution
+- Education level distribution
+- Employees per age bracket
+- Employees per education category
+- Education vs performance correlation
+
+3. Income:
+Focuses on salary insight.
+- Salary comparison by gender across education levels
+- Age vs salary trends by department
+
+4. Employee Records View:
+-	Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
+- Includes dynamic filtering across all columns.
 
 ## Live Dashboard
 🔗 View Interactive Tableau Dashboard:  
