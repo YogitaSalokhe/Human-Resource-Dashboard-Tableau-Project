@@ -44,10 +44,33 @@ https://public.tableau.com/app/profile/yogita.salokhe/viz/HumanResourceDashboard
 <img width="1400" height="795" alt="HR Employee Details" src="https://github.com/user-attachments/assets/77d7809d-0d31-41d1-bbb2-36ba5eb59682" />
 
 ## Key Insights
-- Attrition trends across departments
-- Employee demographics breakdown
-- Hiring and retention patterns
-- HR KPI summary metrics
 
+### 1. Employee Demographics Analysis
+- The highest concentration of employees falls within the **35–44 age group**, with most holding a **Bachelor’s degree**.
+- Performance ratings show a clear correlation with education level:
+  - **48% of PhD employees** received an Excellent rating, while only **5%** fall under Need Improvement.
+  - In contrast, only **13% of employees with High School education** received an Excellent rating, while **34%** are rated Need Improvement.
+- Insight: Higher education levels are strongly associated with better employee performance ratings.
+
+### 2. HR KPI Summary Metrics
+- Total Hired Employees: **8,950**
+- Active Employees: **7,984**
+- Terminated Employees: **966**
+- Highest attrition was observed in:
+  - **2021: 17%**
+  - **2023: 18%**
+
+### 3. Income Analysis
+#### Salary Comparison by Gender & Education
+- Male and female employees with **High School education** earn relatively equal average salaries.
+- For **Bachelor’s degree holders**, male employees earn significantly higher average salaries than female employees.
+- Among **PhD holders**, female employees earn approximately **25% more** on average than male employees.
+
+#### Age vs Salary Correlation by Department
+- Most employees in **Manager-level roles** earn above average salaries.
+- High salary exceptions are also observed in non-managerial roles such as:
+  - Software Developers
+  - System Administrators
+  - Finance Analysts
 ## Author
 Yogita Salokhe
