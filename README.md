@@ -2,34 +2,43 @@
 Human Resource Dashboard built in Tableau showcasing workforce analytics, attrition trends, employee demographics, department distribution, and HR KPI insights through interactive visualizations.
 
 ## Project Overview
-1. Overview :
-Provides a snapshot of workforce metrics.
-- Total hired employees
-- Active employees
-- Terminated employees
-- Hiring and termination trends over years
-- Department-wise employee distribution
-- Job title breakdown
-- HQ vs Branch comparison
-- Geographic distribution by city and state
 
-2. Demographics:
-Analyzes workforce composition.
-- Gender ratio
-- Age group distribution
-- Education level distribution
-- Employees per age bracket
-- Employees per education category
-- Education vs performance correlation
+The Human Resource Dashboard is an interactive Tableau project designed to provide comprehensive workforce analytics for HR decision-making. This dashboard enables both high-level strategic insights and detailed employee-level analysis through dynamic visualizations.
 
-3. Income:
-Focuses on salary insight.
-- Salary comparison by gender across education levels
-- Age vs salary trends by department
+The project focuses on three core business areas:
 
-4. Employee Records View:
--	Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
-- Includes dynamic filtering across all columns.
+### 1. Workforce Overview
+Provides a snapshot of organizational HR performance, including:
+- Total hired, active, and terminated employees
+- Year-wise hiring and attrition trends
+- Department and job title distribution
+- Headquarters vs branch workforce comparison
+- Employee geographic distribution across cities and states
+
+### 2. Employee Demographics
+Analyzes workforce composition to uncover demographic trends:
+- Gender ratio across the organization
+- Age group distribution of employees
+- Education level breakdown
+- Correlation between education and performance ratings
+
+### 3. Income & Salary Analysis
+Examines compensation trends across multiple dimensions:
+- Salary comparison by gender and education level
+- Pay gap identification across qualification categories
+- Age vs salary relationship by department
+
+### 4. Employee Records View
+Includes a detailed employee directory with dynamic filtering across all column records containing:
+- Name
+- Department
+- Position
+- Gender
+- Age
+- Education
+- Salary
+
+This dashboard helps HR managers identify workforce patterns, attrition risks, salary disparities, and performance trends to support data-driven talent management decisions.
 
 ## Live Dashboard
 🔗 View Interactive Tableau Dashboard:  
